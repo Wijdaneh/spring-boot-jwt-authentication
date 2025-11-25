@@ -1,11 +1,3 @@
-Ok je vois exactement le problème 👌
-Ton README est très bien mais **il est cassé juste à cause du Markdown mal structuré** (manque des ``` et mélange texte/code).
-
-👉 Je te renvoie ci-dessous la version **100% corrigée et propre**, compatible GitHub (copier/coller direct) :
-
----
-
-```markdown
 # 🔐 Spring Boot JWT Authentication
 
 Une implémentation complète d'un système d'authentification JWT avec Spring Boot 3 et Spring Security.
@@ -35,7 +27,9 @@ Une implémentation complète d'un système d'authentification JWT avec Spring B
 - Java 17
 - Maven
 - Spring Web
-
+```
+# contenu
+```
 ## 📁 Structure du Projet
 
 ```
