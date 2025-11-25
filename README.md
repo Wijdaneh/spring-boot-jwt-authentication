@@ -1,4 +1,4 @@
-# 🔐 Spring Boot JWT Authentication
+# Spring Boot JWT Authentication
 
 Une implémentation complète d'un système d'authentification JWT avec Spring Boot 3 et Spring Security.
 
@@ -7,7 +7,7 @@ Une implémentation complète d'un système d'authentification JWT avec Spring B
 ![Spring Security](https://img.shields.io/badge/Spring%20Security-6.0-blue)
 ![License](https://img.shields.io/badge/License-MIT-blue)
 
-## 🚀 Fonctionnalités
+## Fonctionnalités
 
 - Authentification JWT stateless
 - Sécurisation des endpoints API
